@@ -11,5 +11,3 @@ About the Projects:
 1.We can know about the top billionaire of the world
 2.We can also find how much money they are donating
 3.We can also see the names and total amount they are donating
-
-Site link: 
