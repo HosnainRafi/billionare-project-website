@@ -1,0 +1,98 @@
+[
+    {
+       "country": "United States",
+       "name": "Jeff Bezos",
+       "worth": 111,
+       "rank": 1,
+       "year": 2019,
+       "img": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f469ea85cc82fc8d6083f05%2F0x0.jpg"
+    },
+    {
+       "country": "United States",
+       "name": "Bill Gates",
+       "worth": 108,
+       "rank": 2,
+       "year": 2019,
+       "img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgwMTc5MTIxNDE2OTcxNjA4/gettyimages-1165301142.jpg"
+    },
+    {
+       "country": "France",
+       "name": "Bernard Arnault",
+       "worth": 97.3,
+       "rank": 3,
+       "year": 2019,
+       "img": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e83999a458d700006815111%2FBernard-Arnault-%2F960x0.jpg%3Ffit%3Dscale"
+    },
+    {
+       "country": "United States",
+       "name": "Warren Buffett",
+       "worth": 83.8,
+       "rank": 4,
+       "year": 2019,
+       "img": "https://www.investopedia.com/thmb/PA0DhNMY2cGhy0tmZMx8aD8-YZQ=/3000x2089/filters:fill(auto,1)/GettyImages-849890606-c069ca46f1894da4a78505cb660b3bd1.jpg"
+    },
+    {
+       "country": "United States",
+       "name": "Mark Zuckerberg",
+       "worth": 73.5,
+       "rank": 5,
+       "year": 2019,
+       "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b7d331358e35dd2773a9%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4401%26cropY1%3D0%26cropY2%3D4401"
+    },
+    {
+       "country": "Spain",
+       "name": "Amancio Ortega",
+       "worth": 68.3,
+       "rank": 6,
+       "year": 2019,
+       "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b94131358e35dd27748e%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D179%26cropX2%3D2232%26cropY1%3D216%26cropY2%3D2269"
+    },
+    {
+       "country": "United States",
+       "name": "Larry Page",
+       "worth": 61.1,
+       "rank": 7,
+       "year": 2019,
+       "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D227%26cropX2%3D2022%26cropY1%3D22%26cropY2%3D1817"
+    },
+    {
+       "country": "United States",
+       "name": "Charles Koch",
+       "worth": 60.8,
+       "rank": 8,
+       "year": 2019,
+       "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5638b4b5e4b0ffa7afe69a7f%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D11%26cropX2%3D726%26cropY1%3D60%26cropY2%3D775"
+    },
+    {
+       "country": "United States",
+       "name": "Julia Flesher Koch",
+       "worth": 60.8,
+       "rank": 9,
+       "year": 2019,
+       "img": "https://nypost.com/wp-content/uploads/sites/2/2020/08/MerryWidow-JuliaFlesherKoch.jpg?quality=80&strip=all"
+    },
+    {
+       "country": "United States",
+       "name": "Larry Ellison",
+       "worth": 59.5,
+       "rank": 10,
+       "year": 2019,
+       "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8b62cfc095010007bffea0%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4529%26cropY1%3D652%26cropY2%3D5184"
+    },
+    {
+       "country": "United States",
+       "name": "Sergey Brin",
+       "worth": 59.3,
+       "rank": 11,
+       "year": 2019,
+       "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c7d7c254bbe6f78090d831f%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D475%26cropX2%3D2887%26cropY1%3D168%26cropY2%3D2582"
+    },
+    {
+       "country": "Mexico",
+       "name": "Carlos Slim",
+       "worth": 57.5,
+       "rank": 13,
+       "year": 2019,
+       "img": "https://i1.wp.com/mentordrive.ng/wp-content/uploads/2019/06/Carlos-Slim.....-e1560336965681.jpg?fit=1800%2C1721&ssl=1"
+    }
+ ]

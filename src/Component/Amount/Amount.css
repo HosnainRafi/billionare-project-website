@@ -1,0 +1,15 @@
+.center-align{
+    text-align: center;
+}
+.total{
+    color: red;
+}
+.amount-card{
+    padding: 30px;
+    color: tomato;
+}
+.amount{
+    position: sticky !important;
+    position: -webkit-sticky !important;
+    top: 3rem !important;
+}

@@ -1,0 +1,22 @@
+.width-area{
+    width: 18rem;
+    height: 450px;
+    margin: 20px 50px;
+}
+.card{
+    background-color: rgba(241, 196, 83, 0.219) !important;
+}
+.width-area img{
+    height: 230px;
+}
+.regular-btn{
+    background-color: rgb(252, 182, 4);
+    width: 200px;
+    height: 40px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    cursor: pointer;
+    color: white;
+}

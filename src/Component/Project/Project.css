@@ -1,0 +1,8 @@
+
+.informations-container{
+    border-right: 1px solid gray;
+    margin-right: 5px;
+    margin-left: 15%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
